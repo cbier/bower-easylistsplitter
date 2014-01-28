@@ -1,0 +1,13 @@
+{
+  "name": "easylistsplitter",
+  "version": "1.0.2",
+  "authors": [
+    "cbier90@gmail.com"
+  ],
+  "description": "jQuery plugin to columnize lists",
+  "main": "jquery.easyListSplitter.js",
+  "keywords": [
+    "easylistsplitter"
+  ],
+  "license": "MIT"
+}
